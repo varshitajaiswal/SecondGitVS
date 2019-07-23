@@ -10,17 +10,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
-            Console.WriteLine("Varshita jaiswal");
-            //utguygygSS
-            Console.WriteLine("Different Line");
-
-            Console.WriteLine("New line for Branch1");
-            
-            //this line is for branch1....
-
-            //changes for branch1
-            //again changes done
         }
     }
 }
