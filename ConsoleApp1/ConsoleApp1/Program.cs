@@ -18,6 +18,8 @@ namespace ConsoleApp1
             Console.WriteLine("New line for Branch1");
             
             //this line is for branch1....
+
+            //changes for branch1
         }
     }
 }
